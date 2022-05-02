@@ -1,2 +1,2 @@
-# -bung1
+Übung1
 Dies dient für Übungszwecken
